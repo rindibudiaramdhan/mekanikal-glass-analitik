@@ -1,0 +1,42 @@
+[
+  {
+    "file": "rotary-evaporator.jpeg",
+    "source_page": 8,
+    "purpose": "Design reference from provided company profile",
+    "preview_file": "rotary-evaporator.png",
+    "note": "PNG preserves the original PDF soft mask."
+  },
+  {
+    "file": "glass-component.jpeg",
+    "source_page": 9,
+    "purpose": "Design reference from provided company profile",
+    "preview_file": "glass-component.png",
+    "note": "PNG preserves the original PDF soft mask."
+  },
+  {
+    "file": "glassware.jpeg",
+    "source_page": 9,
+    "purpose": "Design reference from provided company profile"
+  },
+  {
+    "file": "production-source.jpeg",
+    "source_page": 13,
+    "purpose": "Design reference from provided company profile"
+  },
+  {
+    "file": "project-source.jpeg",
+    "source_page": 14,
+    "purpose": "Design reference from provided company profile"
+  },
+  {
+    "file": "brand-source.jpeg",
+    "source_page": 78,
+    "purpose": "Design reference from provided company profile"
+  },
+  {
+    "file": "glass-condenser.png",
+    "source_page": 9,
+    "xref": 73,
+    "note": "Condenser with original PDF soft mask; replaces support stand in product card."
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "checks": [
+    {
+      "width": 1440,
+      "contentWidth": 1440,
+      "images": true,
+      "lang": "id",
+      "heading": "Glassware untuk\nriset, pendidikan,\ndan industri.",
+      "height": 4984
+    },
+    {
+      "width": 390,
+      "contentWidth": 390,
+      "images": true,
+      "lang": "id",
+      "heading": "Glassware untuk\nriset, pendidikan,\ndan industri.",
+      "height": 7260
+    },
+    {
+      "width": 320,
+      "contentWidth": 320,
+      "images": true,
+      "lang": "id",
+      "heading": "Glassware untuk\nriset, pendidikan,\ndan industri.",
+      "height": 7832
+    },
+    {
+      "width": 768,
+      "contentWidth": 768,
+      "images": true,
+      "lang": "id",
+      "heading": "Glassware untuk\nriset, pendidikan,\ndan industri.",
+      "height": 4252
+    },
+    {
+      "width": 1440,
+      "contentWidth": 1440,
+      "images": true,
+      "lang": "en",
+      "heading": "Glassware for\nresearch, education\n& industry.",
+      "height": 5004
+    },
+    {
+      "width": 390,
+      "contentWidth": 390,
+      "images": true,
+      "lang": "en",
+      "heading": "Glassware for\nresearch, education\n& industry.",
+      "height": 7276
+    },
+    {
+      "width": 320,
+      "contentWidth": 320,
+      "images": true,
+      "lang": "en",
+      "heading": "Glassware for\nresearch, education\n& industry.",
+      "height": 7585
+    },
+    {
+      "width": 768,
+      "contentWidth": 768,
+      "images": true,
+      "lang": "en",
+      "heading": "Glassware for\nresearch, education\n& industry.",
+      "height": 4269
+    }
+  ],
+  "issues": [],
+  "interactiveChecks": [
+    "Mobile menu open / Escape close",
+    "Language selector ID to EN",
+    "Review device / language / wireframe controls"
+  ]
+}
