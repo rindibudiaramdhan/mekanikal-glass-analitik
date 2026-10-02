@@ -173,3 +173,7 @@ Hasil tahap perancangan dinilai siap bila calon pelanggan dapat memahami bidang 
 ## 9. Hasil perancangan beranda — iterasi 01
 
 Wireframe dan mockup beranda desktop/mobile tersedia di [pratinjau desain](design/index.html), lengkap dengan pilihan Indonesia/English. Lihat [catatan desain](design/CATATAN-DESAIN.md) untuk palet yang disempurnakan, sumber aset, dan batas pratinjau. Halaman lain tetap menunggu finalisasi arah beranda; development produksi belum dimulai.
+
+## 10. Deployment pratinjau
+
+Pratinjau desain dideploy di **Cloudflare Workers** melalui repository GitHub. Konfigurasi, perintah deployment, dan alur pembaruan tercatat di [catatan deployment](deployment.md).
