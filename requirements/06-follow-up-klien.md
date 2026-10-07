@@ -15,6 +15,21 @@ Status semua jawaban baru: **belum dikonfirmasi**. Gunakan dokumen ini saat pert
 | FU-07 | Jumlah konten awal berapa? | Produk induk, SKU, kategori, foto, PDF, artikel, proyek dihitung terpisah | Biaya input dan estimasi |
 | FU-08 | Kapan target rilis, batas anggaran dan siapa approver? | Tanggal/anggaran belum tersedia; minta nama PIC berwenang | Prioritas dan milestone |
 
+## Jawaban sebagian dari sumber MGA dan konfirmasi tersisa
+
+Kedua PDF kini menyediakan bahan awal untuk FU-09–FU-17 dan FU-21–FU-23; statusnya tersedia sebagai sumber, belum final/siap tayang. [Pemetaan halaman](09-pemetaan-sumber-mga.md) dan [34 kelompok kandidat produk](10-inventaris-produk-sumber.csv) mengurangi kebutuhan meminta ulang seluruh materi.
+
+| ID | Pertanyaan lanjutan yang spesifik | Dampak |
+| --- | --- | --- |
+| FU-35 | Apakah lima kelompok CAT 3 dipakai sebagai kategori website; keluarga/SKU mana yang diprioritaskan? | Kunci taksonomi dan volume input tanpa menghitung halaman sebagai SKU |
+| FU-36 | Mana produksi MGA, produk pengadaan atau custom; siapa produsen/merek dan apakah foto/tabel boleh dipakai? | Identitas produk dan hak materi, terutama BRAND/DURAN pada tabel |
+| FU-37 | Apa satuan water bath CAT 8 dan nilai vakum yang benar; apakah semua komponen termasuk paket? | Detail rotary, varian dan inquiry akurat |
+| FU-38 | Apakah kalibrasi/repair CAT 6/CP 7 masih tersedia; sendiri atau pihak ketiga dan bukti apa yang boleh disebut? | Cakupan layanan dan klaim kalibrasi |
+| FU-39 | Email CAT 2, CP 3 atau CP 78 mana yang aktif; nomor utama office/workshop, alamat, pin dan penerima form siapa? | Site Settings dan integrasi pengiriman |
+| FU-40 | Ketentuan CP 6 mana yang berlaku saat ini dan boleh publik; apakah percetakan/konveksi masuk website glassware? | Alur layanan tanpa janji komersial yang belum disahkan |
+| FU-41 | Proyek CP 14 mana yang siap; apa nama teknis “Glass Fuel Tank”; rekanan CP 76–77 mana yang berizin? | Konten bukti pengalaman dan relasi pelanggan |
+| FU-42 | Siapa menyiapkan PDF publik yang aman/optimal dan terjemahan; boleh unduh langsung? | File rilis, bahasa dan workflow update |
+
 ## Follow-up per menu
 
 | ID | Menu | Pertanyaan yang perlu dijawab | Output yang diminta |
@@ -70,3 +85,7 @@ Status semua jawaban baru: **belum dikonfirmasi**. Gunakan dokumen ini saat pert
 3. Developer menyesuaikan sitemap/mockup dan backlog berdasarkan jawaban; target sebelum implementasi.
 4. Klien menilai contoh konkret desain dan alur inquiry; hasil persetujuan versi dicatat.
 5. Estimasi biaya/jadwal dan pembagian kerja dibuat setelah keputusan serta jumlah konten tersedia.
+
+## Konfirmasi QR code
+
+FU-43: Pengguna mengonfirmasi tujuan QR sebagai Instagram resmi MGA. Apa username/URL akun resminya dan apakah tautan tersebut aktif? Catat hasil scan serta kecocokan tautan alternatif sebelum publikasi. Penempatan awal diusulkan pada halaman Kontak.

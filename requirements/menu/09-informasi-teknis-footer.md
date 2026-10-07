@@ -1,10 +1,14 @@
 # Technical Information, footer dan newsletter
 
-Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
+Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi, fakta yang tercantum pada sumber MGA, dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
 
 ## Temuan referensi
 
 Referensi memiliki topik perawatan dan properti material; detail perawatan memuat gambar dan tautan topik berikutnya. Footer menyediakan tautan informasi, layanan dan identitas pabrik. Subscribe terlihat pada beranda, proses pengiriman belum diuji. Sumber: [halaman referensi](https://www.iwakiglassindonesia.com/en/technical_information).
+
+## Penyesuaian terhadap sumber MGA
+
+CAT memuat penjelasan penggunaan/standar dan tabel pada beberapa keluarga produk; materi itu menjadi sumber kandidat, bukan panduan teknis yang sudah disahkan. Reviewer harus memeriksa relevansi, produsen, hak penggunaan dan versi sebelum dijadikan panduan publik. Footer memakai kontak yang direkonsiliasi serta unduhan publik yang siap. Newsletter dan akun sosial belum memiliki bahan operasional terverifikasi dari dua PDF. [Pemetaan sumber](../09-pemetaan-sumber-mga.md).
 
 ## Tujuan dan alur
 

@@ -1,12 +1,16 @@
 # Adaptasi MGA — Layanan dan Proyek
 
-Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
+Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi, fakta yang tercantum pada sumber MGA, dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
 
 ## Temuan referensi
 
 Referensi custom mengarahkan konsultasi ke kontak. Halaman Layanan dan Proyek di bawah mengikuti rancangan MGA lokal, bukan menu utama yang teramati pada IWAKI. Sumber: [halaman referensi](https://www.iwakiglassindonesia.com/en/product/Customize-Product).
 
 Baseline: [rancangan MGA](../../docs/rancangan-website.md).
+
+## Penyesuaian terhadap sumber MGA
+
+CAT 6/CP 7 menyebut kalibrasi/perbaikan sebagai kandidat layanan; kemampuan aktual dan pelaksana sendiri/pihak ketiga belum disahkan. CP 6 menjadi bahan alur kerja sama (material/jumlah/harga → desain → approval/sampel → PO/MOU → produksi); angka DP, durasi desain/sampel, MOQ dan termin tidak otomatis menjadi syarat publik. CP 14 menyediakan dua kandidat studi kasus: supply kebutuhan distilasi sawit dan pengadaan alat pendidikan Sumedang. “Glass Fuel Tank” dengan uraian corong pisah perlu koreksi teknis dan penentuan apakah produk atau contoh custom. CP 76–77 berisi 33 rekanan sejak 2006; klasifikasi, periode dan izin dikurasi sebelum tayang. [Bukti halaman](../09-pemetaan-sumber-mga.md).
 
 ## Tujuan dan alur
 

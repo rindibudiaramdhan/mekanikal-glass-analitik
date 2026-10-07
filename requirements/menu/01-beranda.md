@@ -1,10 +1,14 @@
 # Beranda
 
-Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
+Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi, fakta yang tercantum pada sumber MGA, dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
 
 ## Temuan referensi
 
 Pengantar, keunggulan, sertifikat, produk pilihan, FAQ, distributor, logo pengguna, kontak dan subscribe terlihat pada halaman publik. Ringkasan observasi lengkap ada di [analisis referensi](../01-analisis-referensi.md). Sumber: [halaman referensi](https://www.iwakiglassindonesia.com/en/public/home).
+
+## Penyesuaian terhadap sumber MGA
+
+CAT 4–7 dan CP 3–7, 13–14 menyediakan pengantar, kemampuan, proses dan kandidat proyek. Hero tetap memprioritaskan kredibilitas/profil dan tautan katalog. Produk pilihan merujuk lima kategori katalog MGA, bukan sepuluh kategori IWAKI. Warna hijau, navy dan emas terlihat pada CP 3–7; nilai warna/font final tetap mengikuti desain yang ditinjau. Logo lampiran pengguna 7 Oktober menjadi acuan utama; foto pada PDF tetap bahan sumber sampai file asli/hak penggunaan tersedia. Angka tenaga ahli, sertifikasi, rekanan dan klaim kualitas tidak ditampilkan otomatis. [Bukti dan batas sumber](../09-pemetaan-sumber-mga.md).
 
 ## Tujuan dan alur
 

@@ -1,10 +1,14 @@
 # About Us — Company Profile
 
-Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
+Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi, fakta yang tercantum pada sumber MGA, dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
 
 ## Temuan referensi
 
 Halaman referensi berisi sejarah, produk/fasilitas, keterkaitan kelompok usaha, sertifikasi dan visi/misi. Sumber: [halaman referensi](https://www.iwakiglassindonesia.com/en/article/company_profile).
+
+## Penyesuaian terhadap sumber MGA
+
+Bahan profil telah tersedia: CAT 4–5 dan CP 3–4 untuk bidang usaha/sejarah, CP 5 untuk visi/misi, CAT 7/CP 13 untuk produksi. Tahun 2006 adalah awal usaha CV; tanggal pendirian PT masih perlu konfirmasi. Ejaan CV pada dokumen memakai “Scientifik”; final mengikuti dokumen legal yang disahkan, bukan normalisasi tanpa pemeriksaan. Visi menjadi aspirasi, bukan klaim bahwa perusahaan sudah terkemuka/bersertifikasi. Lima tenaga ahli, jangkauan wilayah, bahan impor dan bidang percetakan/konveksi perlu konfirmasi relevansi/keadaan terkini. CP 15–75 tidak otomatis menjadi galeri atau unduhan publik. [Pemetaan sumber](../09-pemetaan-sumber-mga.md).
 
 ## Tujuan dan alur
 

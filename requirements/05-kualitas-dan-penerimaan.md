@@ -36,6 +36,15 @@ Semua angka di bawah merupakan **target usulan**, perlu disepakati. Tidak ada kl
 | Newsletter opsional | Subscribe/konfirmasi/unsubscribe sesuai status | Status pada layanan pengiriman |
 | Rollback/restore | Versi sebelumnya dan media dapat dipulihkan | Catatan simulasi |
 
+## UAT khusus penyesuaian katalog/company profile
+
+- [ ] SOURCE-AC01: Sampel dari lima kategori yang dipilih dibandingkan dengan halaman sumber dan data yang disahkan; setiap nilai/satuan terbit dapat ditelusuri. Jumlah SKU final dinyatakan terpisah dari jumlah halaman/kelompok kandidat.
+- [ ] SOURCE-AC02: Sistem rotary tidak menampilkan unit water bath atau nilai vakum yang belum diselesaikan; produk tidak mewarisi material/sertifikasi secara global.
+- [ ] SOURCE-AC03: Kode produsen dan SKU MGA dibedakan; merek, foto, DIN/ASTM dan klaim kalibrasi hanya terbit sesuai bukti/izin.
+- [ ] SOURCE-AC04: Kontak final sama pada header/footer/kontak/PDF; email diuji sampai inbox; alamat sejarah tidak menjadi lokasi saat ini.
+- [ ] SOURCE-AC05: Unduhan CP telah dipisahkan dari lampiran privat, katalog telah direview hak materi dan keduanya diberi metadata bahasa/versi/ukuran. Tidak ada PDF sumber lengkap yang ikut build tanpa peninjauan.
+- [ ] SOURCE-AC06: Tahun 2006 ditulis sebagai riwayat usaha; rekanan tidak diklaim sebagai distributor/proyek aktif; visi dan ketentuan komersial tidak menjadi pencapaian/jaminan tanpa konfirmasi.
+
 ## Syarat siap rilis usulan
 
 - [ ] Scope dan daftar menu disetujui; PIC penerima hasil bernama telah ditetapkan.

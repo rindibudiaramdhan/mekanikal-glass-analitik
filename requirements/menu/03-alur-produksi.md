@@ -1,10 +1,14 @@
 # About Us — Production Line
 
-Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
+Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi, fakta yang tercantum pada sumber MGA, dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
 
 ## Temuan referensi
 
 Referensi mengelompokkan proses produksi dalam beberapa lini, gudang dan maintenance, dengan foto dan daftar aktivitas. Sumber: [halaman referensi](https://www.iwakiglassindonesia.com/en/article/production_line).
+
+## Penyesuaian terhadap sumber MGA
+
+CAT 7 dan CP 13 mendukung urutan: pemilihan bahan → pemotongan → pemanasan/pembentukan → penyambungan/fusi → annealing → pemeriksaan, finishing/pelabelan jika relevan → pengemasan. Distribusi adalah tahap setelah produksi, bukan lini fabrikasi tersendiri. Borosilikat disebut sebagai bahan proses; jangan menetapkannya otomatis pada semua produk katalog. Foto workshop asli, mesin dan QC aktual masih perlu disahkan. Gunakan satu data tahapan di beranda/profil/layanan atau halaman produksi. [Pemetaan sumber](../09-pemetaan-sumber-mga.md).
 
 ## Tujuan dan alur
 

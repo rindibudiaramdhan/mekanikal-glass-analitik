@@ -40,6 +40,10 @@ Setiap tautan kategori berikut berhasil dibaca sebagai halaman publik. Daftar in
 | Others | [Kategori](https://www.iwakiglassindonesia.com/en/product/category/others) |
 | Customize Product | [Kategori](https://www.iwakiglassindonesia.com/en/product/category/Customize-Product) |
 
+## Kedudukan referensi setelah penyesuaian MGA
+
+Revisi 7 Oktober 2026 memakai kedua PDF MGA sebagai sumber konten. Peta IWAKI di atas tetap catatan observasi 6 Oktober, bukan daftar kategori/layanan yang wajib disalin. Kategori katalog MGA dan bukti halaman ada pada [pemetaan sumber](09-pemetaan-sumber-mga.md); requirement produk memakai lima kelompok katalog MGA.
+
 ## Implikasi untuk requirement MGA — usulan
 
 - Company profile dan bukti kemampuan produksi membantu calon pembeli menilai kredibilitas.

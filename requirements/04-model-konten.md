@@ -18,7 +18,7 @@ Status: kontrak konseptual untuk implementasi, belum skema database final. Penyi
 
 ## Site Settings dan halaman profil
 
-- Site Settings: nama legal/brand (W), logo dan alt (W), alamat (W), email/nomor bisnis yang dapat dihubungi (W), URL peta (O), jam operasional (O), sosial (O), menu aktif (W), bahasa aktif (W). Penerima form disimpan pada konfigurasi server privat.
+- Site Settings: nama legal/brand (W), logo lampiran pengguna (acuan identitas), aset produksi dan alt (W), alamat (W), email/nomor bisnis yang dapat dihubungi (W), URL peta (O), jam operasional (O), sosial (O), menu aktif (W), bahasa aktif (W). Penerima form disimpan pada konfigurasi server privat.
 - Beranda: hero judul/ringkasan ID/EN (W), gambar/CTA (W), daftar blok aktif dan urutan (W), referensi produk/proyek (O), FAQ (O).
 - Profil: ringkasan/sejarah ID/EN (W), visi/misi (O), timeline (O: tahun, judul, uraian), foto (O), dokumen publik (O).
 - Tahapan produksi: nama/uraian ID/EN (W), urutan (W), foto/alt (W bila memakai foto), kelompok lini (O).
@@ -64,6 +64,16 @@ Tidak semua produk glassware menggunakan atribut yang sama. Gunakan atribut per 
 | Akun portal | ID pengguna, kontak login, status, peran/relasi pelanggan | Penyedia autentikasi mengelola kredensial; bukan konten publik |
 | Sertifikat privat | ID, batch/kode produk, file privat, pelanggan, versi/tanggal, izin/masa akses | Validasi hak akses setiap permintaan, pencabutan dan audit |
 
+## Provenance dan atribut sesuai katalog MGA
+
+Tambahkan metadata internal `sourceDocumentId`, `sourcePages`, `sourceLabel`, `verificationStatus` (source-only/needs-clarification/verified), `verifiedBy`, `verifiedAt`, serta sumber/hak penggunaan media. Metadata sumber tidak otomatis ikut payload publik. Status verifikasi terpisah dari status draft/review/published/archived. Klaim teknis terbit harus diverifikasi.
+
+Kategori usulan memakai lima ID pada [pemetaan sumber](09-pemetaan-sumber-mga.md); tambahkan `parentId` opsional bila keluarga produk menjadi subkategori. Produk menambah `manufacturer`, `brand`, `supplyType` (manufactured/sourced/custom/unknown) dan `sourceCatalogNumber` bila diketahui. `sourceCatalogNumber` tidak otomatis menjadi SKU MGA; simpan SKU MGA terpisah dan pertahankan kode produsen bila relevan. `unknown` menghalangi klaim produksi sendiri.
+
+Atribut per keluarga: volumetrik (kapasitas, graduasi, toleransi, suhu referensi), pengukuran fisik (rentang, subdivisi, satuan, panjang), flask/apparatus (jumlah leher, joint per posisi, dimensi), filtration (porositas bila sah), stopcock (bore, key PTFE/kaca), sistem rotary/Monodest (komponen paket, daya/tegangan, kapasitas, rentang kerja bila tervalidasi). Material tidak diasumsikan borosilikat untuk seluruh produk. Satuan dan standar yang kabur ditahan dari publikasi.
+
+Sistem/set memakai relasi komponen opsional dengan jumlah, status included/optional dan catatan kompatibilitas yang disahkan. Produk serupa pada dua halaman/kategori memakai ID induk yang sama jika memang identik. Site Settings boleh menyimpan beberapa kontak office/workshop dengan label, nomor/email yang telah diverifikasi dan nomor utama; penerima form tetap privat. Catatan konflik email tidak menjadi alamat fallback publik.
+
 ## Validasi sebelum publikasi
 
 1. ID/slug unik; pasangan bahasa dan field wajib lengkap.
@@ -73,3 +83,7 @@ Tidak semua produk glassware menggunakan atribut yang sama. Gunakan atribut per 
 5. Isi rich text disanitasi; tautan tidak mengandung skrip berbahaya.
 6. Izin dan versi materi disetujui; dokumen rahasia tidak masuk direktori keluaran publik.
 7. Hapus/arsip konten yang sedang dirujuk harus menawarkan penggantian, melepas relasi, atau menghalangi publikasi sampai relasi diperbaiki.
+
+## Konfigurasi QR code
+
+Site Settings menambah `qrCode` opsional: `mediaId`, `destinationUrl`, `label` ID/EN, `alt` ID/EN, `placement` dan `enabled`; metadata internal `verificationStatus`, `verifiedAt` dan hasil uji scan. QR dari lampiran pengguna ditujukan ke Instagram resmi MGA; username/URL belum tersedia; `enabled` publik hanya setelah tujuan dan gambar diverifikasi. URL hanya memakai skema yang sesuai tujuan yang disahkan; jangan merender URL skrip. Gambar dan URL alternatif harus menuju tujuan sama. Tidak ada secret/kredensial di konfigurasi publik.

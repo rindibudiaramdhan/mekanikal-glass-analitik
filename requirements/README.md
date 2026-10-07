@@ -1,8 +1,8 @@
 # Requirement website PT Mekanikal Glass Analitik
 
-Tanggal analisis: **6 Oktober 2026 (Asia/Jakarta)**. Status: **draft untuk follow-up klien; belum merupakan scope, harga, atau jadwal yang disetujui**.
+Tanggal analisis referensi: **6 Oktober 2026**. Penyesuaian terhadap katalog dan company profile: **7 Oktober 2026 (Asia/Jakarta)**. Status: **draft untuk follow-up klien; belum merupakan scope, harga, atau jadwal yang disetujui**.
 
-Referensi utama: [IWAKI Glass Indonesia](https://www.iwakiglassindonesia.com/). Requirement menerjemahkan pola website referensi menjadi kebutuhan MGA. Identitas, konten, kategori, klaim sertifikasi, dan kebijakan bisnis harus memakai fakta MGA yang dikonfirmasi.
+Sumber utama konten: `CATALOG MGA (1).pdf` (63 halaman) dan `COMPRO MGA NEW (1).pdf` (78 halaman). [Pemetaan sumber MGA](09-pemetaan-sumber-mga.md) mencatat halaman, konflik dan batas verifikasi. [IWAKI Glass Indonesia](https://www.iwakiglassindonesia.com/) tetap referensi pola navigasi/fitur. Identitas, konten, kategori, klaim sertifikasi, dan kebijakan bisnis harus memakai fakta MGA yang dikonfirmasi.
 
 ## Cara menggunakan dokumen
 
@@ -25,6 +25,8 @@ Referensi utama: [IWAKI Glass Indonesia](https://www.iwakiglassindonesia.com/). 
 | [Follow-up klien](06-follow-up-klien.md) | Pertanyaan per menu, keputusan dan dampak scope |
 | [Inventaris materi](07-inventaris-materi.csv) | Daftar bahan yang dapat langsung diisi |
 | [Register keputusan](08-register-keputusan.csv) | Catatan jawaban, persetujuan dan status scope |
+| [Pemetaan sumber MGA](09-pemetaan-sumber-mga.md) | Fakta PDF, kategori katalog, konflik kontak dan batas publikasi |
+| [Inventaris produk sumber](10-inventaris-produk-sumber.csv) | 34 kelompok kandidat dengan halaman dan atribut; bukan daftar SKU final |
 
 ## Arti status dan prioritas
 
@@ -36,4 +38,4 @@ Referensi utama: [IWAKI Glass Indonesia](https://www.iwakiglassindonesia.com/). 
 - **P2:** peningkatan setelah kebutuhan utama jelas.
 - **P3:** fitur lanjutan dengan estimasi terpisah.
 
-Semua requirement per menu merupakan **usulan adaptasi**, kecuali paragraf temuan referensi dan keterangan baseline. Kolom wajib pada model konten berarti wajib ketika jenis konten tersebut digunakan. Pemilik bisnis, PIC materi, reviewer, tenggat, jumlah konten, anggaran, dan target peluncuran belum ditetapkan.
+Fakta bertanda **tercantum pada sumber MGA** telah ditemukan pada PDF; tetap memerlukan verifikasi keadaan terkini dan izin publikasi. Semua requirement per menu merupakan **usulan adaptasi**, kecuali paragraf temuan referensi dan keterangan baseline. Kolom wajib pada model konten berarti wajib ketika jenis konten tersebut digunakan. Pemilik bisnis, PIC materi, reviewer, tenggat, jumlah konten, anggaran, dan target peluncuran belum ditetapkan.

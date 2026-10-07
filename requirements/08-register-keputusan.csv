@@ -3,15 +3,21 @@ DEC-01,Tujuan,Baseline kredibilitas dan profil,Perlu konfirmasi untuk scope baru
 DEC-02,Bahasa,Baseline ID dan EN; Jepang opsional,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
 DEC-03,Update konten,Baseline developer tanpa admin; CMS opsional,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
 DEC-04,Menu peluncuran,Pilih per menu,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
-DEC-05,Kategori dan volume katalog,Kategori MGA; hitung produk induk dan SKU,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
+DEC-05,Kategori dan volume katalog,Lima kategori usulan dari CAT 3; 34 kelompok kandidat bukan jumlah SKU final,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,requirements/09-pemetaan-sumber-mga.md; requirements/10-inventaris-produk-sumber.csv
 DEC-06,Katalog PDF,Unduh publik langsung atau form lead,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
 DEC-07,Sertifikat,Publik perusahaan atau portal privat pelanggan,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
 DEC-08,Berita dan panduan,Aktifkan jika ada materi dan PIC,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
 DEC-09,Distributor,Konfirmasi jaringan resmi,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
 DEC-10,Newsletter,Opsional dengan PIC dan penyedia email,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
 DEC-11,Upload inquiry,Opsional dengan batas file dan akses,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
-DEC-12,Penerima dan data inquiry,Email PIC retensi dan penyimpanan,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
+DEC-12,Penerima dan data inquiry,Rekonsiliasi email CAT 2 dengan CP 3/78; pilih nomor utama dan penerima form,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,requirements/09-pemetaan-sumber-mga.md
 DEC-13,Hosting domain dan akun,Konfirmasi kepemilikan dan biaya,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
 DEC-14,Target biaya jadwal dan UAT,Belum ditetapkan,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
 DEC-15,Layanan dan Proyek,Baseline tetap; penempatan menu dikonfirmasi,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
 DEC-16,Analitik dan integrasi,Opsional sesuai persetujuan,Perlu konfirmasi untuk scope baru,,,,Belum dinilai,Belum ditetapkan,,
+DEC-17,Penyesuaian sumber requirements,CAT 63 halaman dan CP 78 halaman menjadi dasar fakta; IWAKI referensi pola,Penyesuaian dokumen dilakukan; bukan persetujuan scope rilis,Sesuaikan requirements dengan katalog dan company profile yang diberikan,Pengguna melalui chat,2026-10-07,Kategori model konten dan follow-up disesuaikan,Belum ditetapkan,,requirements/09-pemetaan-sumber-mga.md
+DEC-18,Produsen dan hak materi katalog,Verifikasi merek kode foto tabel dan produksi/pengadaan per produk,Perlu konfirmasi,,,,Klaim dan konten produk,Belum ditetapkan,,requirements/09-pemetaan-sumber-mga.md
+DEC-19,Kalibrasi repair dan ketentuan kerja sama,Disebut pada sumber; cakupan aktual dan syarat publik perlu konfirmasi,Perlu konfirmasi,,,,Layanan dan alur konsultasi,Belum ditetapkan,,requirements/09-pemetaan-sumber-mga.md
+DEC-20,Versi PDF publik,Profil terpisah dari lampiran privat; katalog direview dan dioptimalkan,Perlu konfirmasi,,,,Unduhan dan publikasi aset,Belum ditetapkan,,requirements/09-pemetaan-sumber-mga.md
+DEC-21,Acuan logo,Logo lampiran pengguna 7 Oktober 2026,Acuan identitas diberikan; aset produksi belum disiapkan,Gunakan logo yang diberikan sebagai acuan identitas visual requirements,Pengguna melalui chat,2026-10-07,Logo header footer mobile; pertahankan proporsi dan warna; kontras UI diuji,Belum ditetapkan,,Lampiran logo pada chat; requirements/09-pemetaan-sumber-mga.md
+DEC-22,Penambahan QR code website,QR Instagram resmi MGA; halaman Kontak diusulkan,Penambahan dan jenis tujuan dikonfirmasi; URL/scan belum diverifikasi,Tambahkan QR yang diberikan untuk Instagram resmi MGA,Pengguna melalui chat,2026-10-07,Blok QR Instagram dan tombol Buka Instagram; username/URL dan scan perlu verifikasi,Belum ditetapkan,,Lampiran QR chat; requirements/menu/07-kontak-distributor.md

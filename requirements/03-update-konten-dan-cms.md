@@ -12,6 +12,10 @@ Baseline [rancangan MGA](../docs/rancangan-website.md): update dibantu developer
 
 Rekomendasi saat ini: lanjut opsi A sampai klien meminta pengelolaan mandiri. CMS bukan prasyarat untuk menambah halaman publik. Pilihan platform dan biaya ditetapkan setelah jumlah/frekuensi konten jelas.
 
+## Materi awal dari PDF MGA
+
+CAT/CP menjadi bahan input, bukan file yang otomatis diterbitkan. Setiap perubahan produk mencatat halaman sumber, kode sumber versus SKU MGA, verifikasi spesifikasi, produsen dan hak foto/tabel. Developer mengubah data terstruktur serta PDF publik terkait dalam versi yang konsisten. Tabel gambar tidak digunakan sebagai satu-satunya spesifikasi. Kontak office/workshop diperbarui dari satu sumber global setelah konflik email diselesaikan. Lihat [pemetaan sumber](09-pemetaan-sumber-mga.md).
+
 ## SOP opsi A — update melalui developer
 
 1. **Permintaan:** PIC mengirim ID halaman/produk, jenis perubahan, teks ID/EN, foto/PDF final, tanggal tayang yang diinginkan dan nama reviewer. Gunakan tabel inventaris; jangan mengganti seluruh PDF hanya untuk menjelaskan satu perubahan teks.

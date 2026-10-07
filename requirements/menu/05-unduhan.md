@@ -1,12 +1,16 @@
 # Download — Video, Catalog, Certificates
 
-Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
+Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi, fakta yang tercantum pada sumber MGA, dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
 
 ## Temuan referensi
 
 Referensi menyediakan tab video embed YouTube, katalog dengan form sebelum unduhan, serta sertifikat dengan username/password. Pengiriman form, hasil unduhan dan akses setelah login belum diuji. Sumber: [halaman referensi](https://www.iwakiglassindonesia.com/en/download).
 
 Sumber tambahan: [Catalog](https://www.iwakiglassindonesia.com/en/download/catalog), [Certificates](https://www.iwakiglassindonesia.com/en/download/certificate).
+
+## Penyesuaian terhadap sumber MGA
+
+Dua PDF telah tersedia sebagai bahan: CAT 63 halaman sekitar 83,2 MB; CP 78 halaman sekitar 35,4 MB. Katalog menjadi kandidat unduhan publik bersama profil, tetapi file rilis memerlukan review hak foto/tabel, koreksi kontak, bahasa, versi dan optimasi. Company profile lengkap memuat lampiran legal/pribadi menurut inventaris sebelumnya; siapkan versi publik terpisah. Daftar isi CAT 3 menyebut “Proof Of Business Legality”; itu bukan bukti sertifikat kalibrasi pelanggan atau kebutuhan login. Tidak ada URL video yang terverifikasi dalam pemeriksaan ini. [Bukti dan batas sumber](../09-pemetaan-sumber-mga.md).
 
 ## Tujuan dan alur
 

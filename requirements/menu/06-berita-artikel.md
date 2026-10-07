@@ -1,10 +1,14 @@
 # News Article
 
-Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
+Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi, fakta yang tercantum pada sumber MGA, dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
 
 ## Temuan referensi
 
 Daftar referensi memuat judul, ringkasan, tanggal/jam, read more dan pagination. Dua detail berita gagal diambil alat web, sehingga tata letak detail berikut merupakan usulan. Sumber: [halaman referensi](https://www.iwakiglassindonesia.com/en/news_article).
+
+## Penyesuaian terhadap sumber MGA
+
+Kedua PDF menyediakan profil/katalog dan contoh pekerjaan, tetapi belum menyediakan paket artikel bertanggal, penulis, jadwal dan PIC editorial untuk rilis. Berita tetap opsi; jangan mengubah halaman produk/proyek menjadi berita tanpa konteks publikasi yang disahkan. [Pemetaan sumber](../09-pemetaan-sumber-mga.md).
 
 ## Tujuan dan alur
 

@@ -1,12 +1,16 @@
 # Product — kategori, detail, custom dan produk baru
 
-Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
+Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi, fakta yang tercantum pada sumber MGA, dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
 
 ## Temuan referensi
 
 Referensi memiliki sepuluh kategori. Sampel detail Beaker memiliki gambar serta prev/next; custom menawarkan jalur kontak. Daftar produk baru terpisah. Lihat sumber tambahan di bawah. Sumber: [halaman referensi](https://www.iwakiglassindonesia.com/en/product/category/beaker-flask).
 
 Sumber tambahan: [detail Beaker](https://www.iwakiglassindonesia.com/en/product/beaker-low-form), [Custom](https://www.iwakiglassindonesia.com/en/product/Customize-Product), [Produk Baru](https://www.iwakiglassindonesia.com/en/product/new_product).
+
+## Penyesuaian terhadap sumber MGA
+
+CAT 3 dan 8–63 menggantikan kategori referensi sebagai dasar katalog MGA. Ada lima kelompok usulan dan [34 kelompok kandidat untuk pendataan](../10-inventaris-produk-sumber.csv). Angka ini bukan jumlah produk/SKU final. Tabel banyak berupa gambar; spesifikasi harus menjadi data HTML terstruktur setelah diperiksa PIC teknis. Rotary pada CAT 8–9/CP 8–9 perlu penyelesaian satuan water bath dan nilai vakum. Merek/kode sumber seperti BRAND/DURAN tidak otomatis menjadi merek/SKU MGA. [Pemetaan sumber dan konflik](../09-pemetaan-sumber-mga.md).
 
 ## Tujuan dan alur
 
@@ -31,22 +35,28 @@ Pengunjung: membuka menu → menilai konten → menuju detail atau tindakan lanj
 | PRODUCT-11 | P1 | Custom mengarah ke layanan custom: cakupan, contoh, alur konsultasi, CTA. |
 | PRODUCT-12 | P3 | Unggah gambar spesifikasi pada inquiry hanya jika dipilih; batas format/ukuran dan penanganan file harus ditetapkan. |
 
-## Breakdown setiap submenu produk
+## Breakdown kategori MGA dari katalog
 
-Tabel berikut adalah **usulan atribut dan pertanyaan**, bukan transkripsi spesifikasi IWAKI atau pernyataan ketersediaan MGA. Setiap kategori memakai PRODUCT-01 sampai PRODUCT-09; atribut wajib final mengikuti produk aktual yang disetujui PIC teknis. Kategori tanpa inventaris tidak perlu ditampilkan.
+Kategori berikut merupakan usulan dari daftar isi CAT 3 dan halaman isinya. Ketersediaan produk, klasifikasi final, nilai/standar dan izin materi tetap harus disahkan. Sepuluh kategori referensi tetap tercatat pada analisis referensi, tidak menjadi daftar produk MGA.
 
-| Submenu referensi | Konten dan atribut yang perlu dikumpulkan | Follow-up spesifik |
+| Kategori ID / EN | Halaman CAT | Keluarga dan atribut relevan | Follow-up |
+| --- | --- | --- | --- |
+| Rotary Evaporator / Rotary Evaporator | 8–9 | Sistem vertical glassware; kapasitas flask/botol, condenser, kecepatan, bath, pompa dan komponen included/optional | Unit suhu dan vakum yang benar; paket, produsen dan opsi custom |
+| Alat Volumetrik / Volumetric Instruments | 10–17 | Volumetric flask, graduated/mixing cylinder, burette/automatic; kapasitas, graduasi, toleransi, suhu referensi, stopper/stopcock | Kelas/standar/sertifikat mana yang benar berlaku; kode produsen versus SKU MGA |
+| Pengukuran Fisik / Physical Measurement | 18–26 | Botol ukur pada 19, sedimentation cone, hydrometer, thermometer; rentang, subdivisi, satuan, panjang, koneksi | Nama keluarga botol pada 19; rentang/standar/material pengisi dan kalibrasi aktual |
+| Glassware Laboratorium Kimia / Chemical Laboratory Glassware | 27–39 | Beaker, flask, centrifuge/test tube, dishes, funnel, filtration, weighing bottle, desiccator, aspirator/accessories | Kapasitas/dimensi/bentuk, porositas jika berlaku, material per produk; tabung centrifuge tidak berarti menjual mesin centrifuge |
+| Apparatus dan Komponen / Chemical Apparatus & Components | 40–63 | Flask joint/leher 1–4, dropping funnel, stirrer, head, condenser/column, adapter, ekstraksi, drying tube, stopcock, konektor dan Monodest | Joint per posisi, dimensi/kapasitas, material key, isi set, daya/tegangan dan kompatibilitas yang terbukti |
+
+Custom tetap pintasan menuju Layanan; tidak dipaksa menjadi SKU standar. Produk Baru hanya jika dipilih dan memiliki data tanggal, tidak disimpulkan dari urutan halaman katalog.
+
+## Requirement tambahan dari sumber MGA
+
+| ID | Prioritas | Kebutuhan |
 | --- | --- | --- |
-| Beaker & Flask | Jenis/bentuk, kapasitas, diameter/tinggi, bentuk dasar, leher/joint, stopper/cap bila ada, material, kode dan kemasan | Bentuk dan kapasitas apa yang tersedia; flask/beaker dibedakan sebagai subkategori atau filter? |
-| Volumetric Ware | Jenis alat, volume nominal, toleransi beserta satuan, kelas/standar jika benar berlaku, suhu referensi bila relevan, graduasi, stopper/stopcock, opsi dokumen | Adakah Class A/standar/kalibrasi yang dapat dibuktikan; apakah sertifikat per produk atau batch? |
-| Centrifuge | Jenis tabung, kapasitas, dimensi, dasar, penutup, material; batas penggunaan hanya jika tervalidasi | Apakah MGA menjual tabung kaca atau mesin centrifuge; parameter penggunaan apa yang boleh diklaim? |
-| Condenser | Tipe, panjang efektif, joint, dimensi sambungan selang, material, foto/detail bentuk | Tipe apa yang dibuat; ukuran standar dan ukuran custom mana yang tersedia? |
-| Funnel & Column | Jenis corong/kolom, volume/dimensi, joint, stopcock/frit jika ada, material dan aplikasi | Perlu memisahkan funnel dan column; atribut porositas/stopcock relevan pada produk mana? |
-| Culture Tube | Volume/dimensi, jenis penutup, material, penggunaan yang disetujui, kemasan | Produk kultur apa yang tersedia; adakah klaim penggunaan/sterilisasi yang perlu reviewer? |
-| Test Tube | Diameter/panjang/volume, bentuk dasar, penutup, material, graduasi bila ada, kemasan | Apakah kode dan ukuran dikelola per SKU; foto tabung mana yang membedakan varian? |
-| Apparatus | Fungsi alat, susunan komponen, kapasitas sistem, sambungan, dimensi, diagram/PDF, bagian yang termasuk | Alat distilasi/ekstraksi apa yang ditawarkan; satu set atau komponen, termasuk pemanas/aksesori atau terpisah? |
-| Others | Subtipe jelas, aplikasi, atribut sesuai barang; botol/aksesori tidak dipaksa memakai atribut tabung | Barang apa masuk Others; lebih mudah ditemukan sebagai kategori baru atau tetap Others? |
-| Customize Product | Cakupan layanan, contoh kebutuhan, material/kemampuan, alur konsultasi, input gambar/spesifikasi jika diperlukan, CTA | Batas kemampuan custom, minimum order dan lead time boleh dipublikasikan atau hanya saat konsultasi? |
+| PRODUCT-13 | P1 | Simpan referensi dokumen/halaman dan status verifikasi internal; nilai ambigu tidak diterbitkan. |
+| PRODUCT-14 | P1 | Bedakan SKU MGA, nomor katalog sumber, produsen/merek dan produksi sendiri/pengadaan/custom; klaim standar/kalibrasi memerlukan bukti. |
+| PRODUCT-15 | P1 | Produk sistem/set menjelaskan komponen termasuk/opsional dan varian dengan atribut sesuai keluarga, bukan kapasitas universal. |
+| PRODUCT-16 | P1 | Produk serupa pada beberapa halaman memakai ID induk yang konsisten setelah deduplikasi; tabel spesifikasi dirender sebagai HTML responsif, bukan screenshot PDF saja. |
 
 ## Update kategori dan SKU
 
@@ -76,11 +86,14 @@ Setiap update mengikuti alur draft → review fakta/ID-EN → preview → perset
 - [ ] PRODUCT-AC04: Jika pencarian dipilih, uji nama, kode, hasil kosong dan reset filter; hanya produk aktif ditemukan.
 - [ ] PRODUCT-AC05: Produk draft tidak tampil; URL lama ditangani saat slug atau status berubah.
 
+- [ ] PRODUCT-AC06: Kode sumber tidak dianggap SKU MGA tanpa pemetaan; bukti produsen/hak materi/standar dapat ditelusuri.
+- [ ] PRODUCT-AC07: UAT mencakup rotary, alat volumetrik, pengukuran fisik, glassware dan apparatus yang dipilih; nilai ambigu ditahan dan isi set jelas.
+
 ## Pertanyaan follow-up
 
 1. Berapa kategori, produk induk, varian/SKU dan foto per produk untuk rilis awal?
 2. Apakah harga/stock perlu ditampilkan atau seluruhnya melalui penawaran?
-3. Kategori referensi mana yang benar-benar disediakan MGA?
-4. Adakah produk non-glassware seperti rotary evaporator dan thermometer yang perlu kategori terpisah?
+3. Apakah lima kategori dari CAT 3 dipakai; keluarga dan SKU mana yang tersedia untuk rilis?
+4. Apakah rotary menjadi kategori sendiri dan thermometer/hydrometer berada dalam Pengukuran Fisik sesuai usulan?
 5. Apakah custom, repair dan kalibrasi tersedia; mana layanan sendiri dan pihak ketiga?
 6. Perlu search/filter, tabel SKU, PDF per produk, atau unggahan spesifikasi?

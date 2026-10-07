@@ -1,10 +1,14 @@
 # Language
 
-Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
+Status: **usulan adaptasi untuk follow-up**, kecuali temuan referensi, fakta yang tercantum pada sumber MGA, dan baseline yang disebutkan. P1/P2/P3 berlaku jika menu dipilih untuk rilis. [Panduan status](../README.md).
 
 ## Temuan referensi
 
 Referensi menyediakan tautan English, Indonesia dan Japanese. Hasil baca ID/JP masih memiliki bagian berbahasa Inggris; kelengkapan terjemahan tidak diasumsikan. Sumber: [halaman referensi](https://www.iwakiglassindonesia.com/id/home).
+
+## Penyesuaian terhadap sumber MGA
+
+Narasi sumber terutama Indonesia dan sebagian tabel/judul Inggris; belum tersedia pasangan editorial ID/EN lengkap. Gunakan glosarium keluarga katalog (labu ukur/volumetric flask, gelas ukur/graduated cylinder, hidrometer/hydrometer, corong pisah/separating funnel, kondensor/condenser). Salah eja seperti “Tree-neck”, “Reciver”, “Droping” dan “Monodest” diperiksa sebelum normalisasi; merek/model resmi dipertahankan. Nama legal CV/PT tidak diubah tanpa konfirmasi. Label unduhan menyatakan bahasa file yang sebenarnya, termasuk campuran bila berlaku. [Pemetaan sumber](../09-pemetaan-sumber-mga.md).
 
 ## Tujuan dan alur
 

@@ -16,3 +16,7 @@ Setiap file memuat temuan referensi, kebutuhan adaptasi MGA, data dari klien, ca
 | Layanan dan Proyek dari baseline MGA | [Adaptasi MGA](10-layanan-proyek-mga.md) |
 
 Privacy Policy merupakan halaman lintas website; kebutuhannya ada pada [kualitas dan penerimaan](../05-kualitas-dan-penerimaan.md). Sertifikat privat dan CMS adalah opsi, belum disetujui.
+
+## Acuan konten MGA
+
+Semua menu telah disesuaikan terhadap [pemetaan dua PDF MGA](../09-pemetaan-sumber-mga.md). Produk menggunakan lima kategori usulan dari katalog; sumber awal keluarga produk ada pada [inventaris produk](../10-inventaris-produk-sumber.csv). Keberadaan materi PDF tidak otomatis mengaktifkan menu opsional.
