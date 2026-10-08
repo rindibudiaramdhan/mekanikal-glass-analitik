@@ -1,0 +1,6 @@
+---
+import {pick,type Locale,type products} from '../data/site';
+interface Props {lang:Locale; product:(typeof products)[number]}
+const {lang,product}=Astro.props;
+---
+<a class="product-card" href={`/${lang}/products/${product.slug}/`}><div class="product-image"><img src={`/images/${product.image}`} alt={product[lang]} loading="lazy" width="420" height="380"/></div><span class="eyebrow">{pick(lang,'CATALOGUE PREVIEW','PREVIEW KATALOG')}</span><h3>{product[lang]}</h3><p>{product.summary[lang]}</p><span class="card-link">{pick(lang,'Explore product','Lihat produk')} <span aria-hidden="true">↗</span></span></a>

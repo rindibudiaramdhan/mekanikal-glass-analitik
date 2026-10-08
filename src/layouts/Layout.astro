@@ -1,0 +1,29 @@
+---
+import '../styles/global.css';
+import {site,nav,pick,type Locale} from '../data/site';
+interface Props { lang:Locale; title:string; description?:string; path?:string }
+const {lang,title,description=pick(Astro.props.lang,'Laboratory glassware and custom glassware enquiries in Bandung, Indonesia.','Glassware laboratorium dan konsultasi glassware custom di Bandung, Indonesia.'),path=''}=Astro.props;
+const t=(en:string,id:string)=>pick(lang,en,id);
+const route=(locale:string)=>`/${locale}/${path?path+'/':''}`;
+---
+<!doctype html><html lang={lang}><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>{title} | MGA</title><meta name="description" content={description}/><meta name="robots" content="noindex,nofollow"/><link rel="icon" href="/favicon.svg" type="image/svg+xml"/><link rel="canonical" href={new URL(route(lang),Astro.site)}/><link rel="alternate" hreflang="en" href={new URL(route('en'),Astro.site)}/><link rel="alternate" hreflang="id" href={new URL(route('id'),Astro.site)}/></head>
+<body>
+<a href="#main" class="skip">{t('Skip to content','Langsung ke konten')}</a>
+<div class="preview-bar">{t('CLIENT PREVIEW · Content and specifications are subject to review.','PREVIEW KLIEN · Konten dan spesifikasi masih dalam review.')}</div>
+<header><div class="container header-row">
+<a class="brand" href={`/${lang}/`} aria-label="Mekanikal Glass Analitik"><span class="brand-symbol"><img src="/images/brand-source.jpeg" alt="" width="53" height="53"/></span><span>MEKANIKAL<small>GLASS ANALITIK</small></span></a>
+<button class="menu-toggle" aria-expanded="false" aria-controls="navigation" aria-label={t('Open navigation','Buka navigasi')}>☰</button>
+<nav id="navigation" aria-label={t('Main navigation','Navigasi utama')}>{nav.map(n=><a href={`/${lang}/${n.path}/`} aria-current={path===n.path||path.startsWith(n.path+'/')?'page':undefined}>{lang==='en'?n.en:n.id}</a>)}</nav>
+<div class="languages" aria-label={t('Website language','Bahasa website')}><a href={route('en')} lang="en" aria-current={lang==='en'?'true':undefined}>English</a><span>/</span><a href={route('id')} lang="id" aria-current={lang==='id'?'true':undefined}>Indonesia</a></div>
+</div></header>
+<main id="main"><slot/></main>
+<footer><div class="container footer-grid"><div><a class="footer-brand" href={`/${lang}/`}>MEKANIKAL<small>GLASS ANALITIK</small></a><p>{t('Glassware for the work that matters.','Glassware untuk pekerjaan yang berarti.')}</p><p>Bandung, Indonesia</p></div><div><h2>{t('Explore','Jelajahi')}</h2>{nav.map(n=><a href={`/${lang}/${n.path}/`}>{lang==='en'?n.en:n.id}</a>)}</div><div><h2>{t('Get in touch','Hubungi kami')}</h2><a href={`https://wa.me/${site.office.wa}`}>WhatsApp: {site.office.whatsapp}</a><a href={`mailto:${site.email}`}>{site.email}</a><p>{site.office.address}</p></div></div><div class="container footer-bottom"><span>© {new Date().getFullYear()} {site.name}</span><a href={`/${lang}/privacy/`}>{t('Privacy policy','Kebijakan privasi')}</a></div></footer>
+<script>
+const button=document.querySelector<HTMLButtonElement>('.menu-toggle');
+const navigation=document.querySelector<HTMLElement>('#navigation');
+function close(){button?.setAttribute('aria-expanded','false');navigation?.classList.remove('open');}
+button?.addEventListener('click',()=>{const opened=button.getAttribute('aria-expanded')==='true';button.setAttribute('aria-expanded',String(!opened));navigation?.classList.toggle('open',!opened);});
+document.addEventListener('keydown',event=>{if(event.key==='Escape'&&button?.getAttribute('aria-expanded')==='true'){close();button.focus();}});
+navigation?.querySelectorAll('a').forEach(a=>a.addEventListener('click',close));
+</script>
+</body></html>

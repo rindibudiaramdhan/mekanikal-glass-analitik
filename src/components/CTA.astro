@@ -1,0 +1,6 @@
+---
+import {pick,type Locale} from '../data/site';
+interface Props {lang:Locale}
+const {lang}=Astro.props;
+---
+<section class="cta"><div class="container cta-grid"><div><span class="eyebrow">{pick(lang,'LET’S TALK GLASSWARE','MARI DISKUSIKAN GLASSWARE')}</span><h2>{pick(lang,'Your next project starts with a conversation.','Proyek berikutnya dimulai dari sebuah percakapan.')}</h2><p>{pick(lang,'Share your application, dimensions or reference drawing with our team.','Sampaikan aplikasi, dimensi atau gambar acuan kepada tim kami.')}</p></div><a class="button light" href={`/${lang}/contact/`}>{pick(lang,'Discuss your requirements','Diskusikan kebutuhan Anda')} <span>↗</span></a></div></section>

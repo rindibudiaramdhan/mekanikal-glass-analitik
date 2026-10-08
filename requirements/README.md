@@ -41,3 +41,7 @@ Sumber utama konten: `CATALOG MGA (1).pdf` (63 halaman) dan `COMPRO MGA NEW (1).
 - **P3:** fitur lanjutan dengan estimasi terpisah.
 
 Fakta bertanda **tercantum pada sumber MGA** telah ditemukan pada PDF; tetap memerlukan verifikasi keadaan terkini dan izin publikasi. Semua requirement per menu merupakan **usulan adaptasi**, kecuali paragraf temuan referensi dan keterangan baseline. Kolom wajib pada model konten berarti wajib ketika jenis konten tersebut digunakan. Pemilik bisnis, PIC materi, reviewer, tenggat, jumlah konten, anggaran, dan target peluncuran belum ditetapkan.
+
+## Pengerjaan demo disetujui — 8 Oktober 2026
+
+Astro + Cloudflare Pages disetujui untuk pengerjaan awal. Prioritas: demo klien hari ini. [Cakupan dan panduan demo](15-demo-8-oktober-2026.md).
