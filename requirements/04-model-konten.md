@@ -87,3 +87,7 @@ Sistem/set memakai relasi komponen opsional dengan jumlah, status included/optio
 ## Konfigurasi QR code
 
 Site Settings menambah `qrCode` opsional: `mediaId`, `destinationUrl`, `label` ID/EN, `alt` ID/EN, `placement` dan `enabled`; metadata internal `verificationStatus`, `verifiedAt` dan hasil uji scan. QR dari lampiran pengguna ditujukan ke Instagram resmi MGA; username/URL belum tersedia; `enabled` publik hanya setelah tujuan dan gambar diverifikasi. URL hanya memakai skema yang sesuai tujuan yang disahkan; jangan merender URL skrip. Gambar dan URL alternatif harus menuju tujuan sama. Tidak ada secret/kredensial di konfigurasi publik.
+
+## Pembaruan Site Settings — 8 Oktober 2026
+
+Gunakan [kontak terkonfirmasi](11-keputusan-dan-kontak-terkonfirmasi.md) sebagai sumber terbaru. Site Settings memisahkan Office/Workshop: nama PIC publik, alamat, WhatsApp tampil/tautan dan telepon opsional; email publik global, domain utama, defaultLocale `en`, locales `en/id`, serta sosial/QR yang terverifikasi. Penerima backend tetap konfigurasi privat yang belum ditetapkan. Menu edit mandiri merupakan kebutuhan untuk dievaluasi; tidak menetapkan database atau CMS tertentu.

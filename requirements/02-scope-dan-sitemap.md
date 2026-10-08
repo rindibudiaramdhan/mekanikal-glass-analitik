@@ -1,5 +1,7 @@
 # Scope, adaptasi MGA dan sitemap
 
+**Pembaruan 8 Oktober 2026:** scope tahap pertama dan preview telah disetujui. Inggris menjadi default dengan tombol English/Indonesia. Kontak publik dan domain sudah ditetapkan; CMS, routing inquiry, volume konten dan jadwal belum final. [Keputusan terbaru](11-keputusan-dan-kontak-terkonfirmasi.md), [tahapan](12-rencana-tahapan-pengerjaan.md), [teknologi/hosting](13-rekomendasi-teknologi-dan-hosting.md), dan [konfirmasi tersisa](14-konfirmasi-lanjutan.md) mengungguli usulan lama yang berbeda. Catatan di bawah dipertahankan sebagai konteks historis.
+
 ## Baseline yang sudah tercatat
 
 [Rancangan website](../docs/rancangan-website.md) mencatat tujuan kredibilitas/profil, bahasa Indonesia dan Inggris sejak rilis, serta update melalui developer tanpa halaman admin. [Arsitektur](../docs/teknis/arsitektur.md) masih berupa arahan; stack produksi belum dipilih. Dokumen requirements ini memperluas bahan diskusi berdasarkan referensi, belum mengganti keputusan terdahulu.

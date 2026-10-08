@@ -1,6 +1,8 @@
 # Requirement website PT Mekanikal Glass Analitik
 
-Tanggal analisis referensi: **6 Oktober 2026**. Penyesuaian terhadap katalog dan company profile: **7 Oktober 2026 (Asia/Jakarta)**. Status: **draft untuk follow-up klien; belum merupakan scope, harga, atau jadwal yang disetujui**.
+**Pembaruan 8 Oktober 2026:** scope tahap pertama dan preview telah disetujui. Inggris menjadi default dengan tombol English/Indonesia. Kontak publik dan domain sudah ditetapkan; CMS, routing inquiry, volume konten dan jadwal belum final. [Keputusan terbaru](11-keputusan-dan-kontak-terkonfirmasi.md), [tahapan](12-rencana-tahapan-pengerjaan.md), [teknologi/hosting](13-rekomendasi-teknologi-dan-hosting.md), dan [konfirmasi tersisa](14-konfirmasi-lanjutan.md) mengungguli usulan lama yang berbeda. Catatan di bawah dipertahankan sebagai konteks historis.
+
+Tanggal analisis referensi: **6 Oktober 2026**. Penyesuaian terhadap katalog dan company profile: **7 Oktober 2026 (Asia/Jakarta)**. Status awal: **draft untuk follow-up klien**. Scope tahap pertama dan pengerjaan preview kini disetujui; harga, jadwal dan fitur lanjutan belum disepakati.
 
 Sumber utama konten: `CATALOG MGA (1).pdf` (63 halaman) dan `COMPRO MGA NEW (1).pdf` (78 halaman). [Pemetaan sumber MGA](09-pemetaan-sumber-mga.md) mencatat halaman, konflik dan batas verifikasi. [IWAKI Glass Indonesia](https://www.iwakiglassindonesia.com/) tetap referensi pola navigasi/fitur. Identitas, konten, kategori, klaim sertifikasi, dan kebijakan bisnis harus memakai fakta MGA yang dikonfirmasi.
 

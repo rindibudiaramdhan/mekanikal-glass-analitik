@@ -1,5 +1,7 @@
 # Cara update konten dan pilihan pengelolaan
 
+**Pembaruan 8 Oktober 2026:** scope tahap pertama dan preview telah disetujui. Inggris menjadi default dengan tombol English/Indonesia. Kontak publik dan domain sudah ditetapkan; CMS, routing inquiry, volume konten dan jadwal belum final. [Keputusan terbaru](11-keputusan-dan-kontak-terkonfirmasi.md), [tahapan](12-rencana-tahapan-pengerjaan.md), [teknologi/hosting](13-rekomendasi-teknologi-dan-hosting.md), dan [konfirmasi tersisa](14-konfirmasi-lanjutan.md) mengungguli usulan lama yang berbeda. Catatan di bawah dipertahankan sebagai konteks historis.
+
 ## Keputusan awal dan opsi
 
 Baseline [rancangan MGA](../docs/rancangan-website.md): update dibantu developer dan **tanpa halaman admin** pada scope awal. Panel admin/CMS IWAKI tidak dapat diverifikasi dari halaman publik. Opsi CMS di bawah adalah rancangan baru untuk diskusi, bukan klaim tentang sistem referensi.

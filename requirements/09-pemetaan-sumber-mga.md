@@ -1,5 +1,7 @@
 # Pemetaan katalog dan company profile MGA
 
+**Pembaruan 8 Oktober 2026:** scope tahap pertama dan preview telah disetujui. Inggris menjadi default dengan tombol English/Indonesia. Kontak publik dan domain sudah ditetapkan; CMS, routing inquiry, volume konten dan jadwal belum final. [Keputusan terbaru](11-keputusan-dan-kontak-terkonfirmasi.md), [tahapan](12-rencana-tahapan-pengerjaan.md), [teknologi/hosting](13-rekomendasi-teknologi-dan-hosting.md), dan [konfirmasi tersisa](14-konfirmasi-lanjutan.md) mengungguli usulan lama yang berbeda. Catatan di bawah dipertahankan sebagai konteks historis.
+
 Tanggal penyesuaian: **7 Oktober 2026 (Asia/Jakarta)**. Dasar revisi: permintaan pengguna untuk menyesuaikan requirements dengan kedua PDF. Penyesuaian sumber telah dilakukan; pilihan menu, volume rilis, biaya dan jadwal belum menjadi keputusan final.
 
 ## Sumber dan metode

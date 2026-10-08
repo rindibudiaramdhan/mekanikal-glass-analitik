@@ -1,6 +1,8 @@
 # Daftar follow-up kebutuhan klien
 
-Status semua jawaban baru: **belum dikonfirmasi**. Gunakan dokumen ini saat pertemuan; keputusan dicatat pada register CSV. Pertanyaan lebih rinci tersedia di setiap file menu.
+**Pembaruan 8 Oktober 2026:** scope tahap pertama dan preview telah disetujui. Inggris menjadi default dengan tombol English/Indonesia. Kontak publik dan domain sudah ditetapkan; CMS, routing inquiry, volume konten dan jadwal belum final. [Keputusan terbaru](11-keputusan-dan-kontak-terkonfirmasi.md), [tahapan](12-rencana-tahapan-pengerjaan.md), [teknologi/hosting](13-rekomendasi-teknologi-dan-hosting.md), dan [konfirmasi tersisa](14-konfirmasi-lanjutan.md) mengungguli usulan lama yang berbeda. Catatan di bawah dipertahankan sebagai konteks historis.
+
+Status daftar historis di bawah: sebagian telah dijawab pada 8 Oktober 2026; gunakan dokumen konfirmasi lanjutan untuk pertanyaan yang masih terbuka. Gunakan dokumen ini saat pertemuan; keputusan dicatat pada register CSV. Pertanyaan lebih rinci tersedia di setiap file menu.
 
 ## Pertanyaan penentu scope terlebih dahulu
 
