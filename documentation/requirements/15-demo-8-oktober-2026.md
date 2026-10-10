@@ -21,6 +21,6 @@ Hosting Cloudflare belum dikonfigurasi: akun/akses belum tersedia. Preview lokal
 
 ## Bukti verifikasi
 
-Build statis menghasilkan 25 halaman. `npm run check` lulus tanpa error/warning. Empat uji Playwright lulus: rute EN/ID dan pasangan bahasa/gambar; pencarian/filter/hasil kosong; validasi dan pesan WhatsApp (tujuan diintersep, tidak mengirim pesan bisnis); navigasi mobile dan lebar 320/390/768/1440. Screenshot hasil uji ada pada `docs/demo/`. Instalasi dependensi terakhir melaporkan 0 vulnerabilities.
+Build statis menghasilkan 25 halaman. `npm run check` lulus tanpa error/warning. Empat uji Playwright lulus: rute EN/ID dan pasangan bahasa/gambar; pencarian/filter/hasil kosong; validasi dan pesan WhatsApp (tujuan diintersep, tidak mengirim pesan bisnis); navigasi mobile dan lebar 320/390/768/1440. Screenshot hasil uji ada pada `documentation/docs/demo/`. Instalasi dependensi terakhir melaporkan 0 vulnerabilities.
 
-Paket unggah Cloudflare: `docs/demo/mga-cloudflare-demo.zip`; isinya hanya build website, tanpa requirements atau PDF sumber. Deployment online belum dilakukan.
+Paket unggah Cloudflare: `documentation/docs/demo/mga-cloudflare-demo.zip`; isinya hanya build website, tanpa requirements atau PDF sumber. Deployment online belum dilakukan.

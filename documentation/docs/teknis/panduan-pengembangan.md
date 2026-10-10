@@ -2,14 +2,14 @@
 
 ## Menjalankan pratinjau sekarang
 
-Buka `docs/design/index.html` di browser, lalu pilih mockup/wireframe, perangkat, dan bahasa. Aset pratinjau tersedia lokal. Detail ada pada [catatan desain](../design/CATATAN-DESAIN.md).
+Buka `documentation/docs/design/index.html` di browser, lalu pilih mockup/wireframe, perangkat, dan bahasa. Aset pratinjau tersedia lokal. Detail ada pada [catatan desain](../design/CATATAN-DESAIN.md).
 
 Repository belum memiliki perintah install, dev, build, lint, atau test aplikasi produksi. Jangan mengasumsikan `npm run dev` sudah tersedia. Setelah stack diputuskan, tulis versi runtime, package manager, langkah instalasi dari lockfile, nama variabel environment tanpa rahasianya, serta perintah nyata di dokumen ini. Uji dari checkout bersih.
 
 ## Alur Git dan review
 
 1. Periksa status kerja; pertahankan perubahan yang sudah ada sebelum mulai.
-2. Buat branch singkat, misalnya `feat/mga-06-beranda`, `fix/menu-mobile`, atau `docs/panduan-kerja`.
+2. Buat branch singkat, misalnya `feat/mga-06-beranda`, `fix/menu-mobile`, atau `documentation/docs/panduan-kerja`.
 3. Kerjakan satu tujuan yang dapat ditinjau. Hindari memasukkan format ulang atau perubahan lain yang tidak terkait.
 4. Periksa diff dan jalankan validasi yang relevan.
 5. Buat commit bermakna, misalnya `feat: tambah halaman profil dalam ID dan EN`.

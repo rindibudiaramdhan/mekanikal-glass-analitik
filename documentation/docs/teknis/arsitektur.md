@@ -4,7 +4,7 @@ Status: arahan usulan; stack produksi belum dipilih.
 
 ## Kondisi saat ini
 
-Pratinjau memakai HTML, CSS, dan JavaScript biasa di `docs/design`. Bahasa Inggris diaktifkan melalui `?lang=en` dan atribut terjemahan di HTML. Navigasi beranda menuju bagian pada halaman yang sama. Kontak memakai `mailto:`; endpoint formulir belum tersedia. Konfigurasi hosting pratinjau mengikuti [deployment](../deployment.md).
+Pratinjau memakai HTML, CSS, dan JavaScript biasa di `documentation/docs/design`. Bahasa Inggris diaktifkan melalui `?lang=en` dan atribut terjemahan di HTML. Navigasi beranda menuju bagian pada halaman yang sama. Kontak memakai `mailto:`; endpoint formulir belum tersedia. Konfigurasi hosting pratinjau mengikuti [deployment](../deployment.md).
 
 ## Kebutuhan arsitektur produksi
 
@@ -45,7 +45,7 @@ src/
   styles/       token dan gaya global
 public/         aset yang memang boleh diakses publik
 tests/          pengujian otomatis sesuai risiko
-docs/           dokumentasi dan pratinjau desain yang sudah ada
+documentation/docs/           dokumentasi dan pratinjau desain yang sudah ada
 ```
 
 Output deployment produksi harus ditetapkan eksplisit. Jangan otomatis menyalin seluruh `docs` ke aset publik. Tentukan apakah URL pratinjau lama dipertahankan saat website produksi dirilis.

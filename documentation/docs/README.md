@@ -13,7 +13,7 @@ Ditinjau: 2 Oktober 2026. Pemilik pemeliharaan dokumentasi: developer proyek; na
 
 ## Kondisi repository
 
-Yang tersedia adalah rancangan dan pratinjau beranda dalam HTML/CSS/JavaScript di `docs/design`, beserta aset dan hasil ekspor. Belum ditemukan aplikasi produksi, package manifest, konfigurasi build, atau workflow CI dalam peninjauan ini. Dokumen deployment mencatat Cloudflare Workers untuk pratinjau; URL dan status live belum diverifikasi.
+Yang tersedia adalah rancangan dan pratinjau beranda dalam HTML/CSS/JavaScript di `documentation/docs/design`, beserta aset dan hasil ekspor. Belum ditemukan aplikasi produksi, package manifest, konfigurasi build, atau workflow CI dalam peninjauan ini. Dokumen deployment mencatat Cloudflare Workers untuk pratinjau; URL dan status live belum diverifikasi.
 
 Keputusan yang sudah tercatat: fokus kredibilitas perusahaan, bahasa ID/EN sejak peluncuran, dan pembaruan konten oleh developer tanpa halaman admin. Framework produksi dan arsitektur formulir masih perlu diputuskan.
 
@@ -42,5 +42,5 @@ Keputusan yang sudah tercatat: fokus kredibilitas perusahaan, bahasa ID/EN sejak
 - Saat dua sumber berbeda, catat perbedaan dan selesaikan bersama pemilik keputusan sebelum implementasi terkait.
 - Perbarui dokumentasi yang terdampak pada pull request yang sama dengan perubahan kode.
 - Catat tanggal, penanggung jawab, bukti, dan keputusan yang berubah. Gunakan `Belum ditentukan` jika belum ada informasi.
-- Simpan panduan internal di luar `docs/design`: folder tersebut adalah direktori aset deployment pratinjau. Jangan menaruh kredensial, data calon pelanggan, atau dokumen pribadi di repository.
+- Simpan panduan internal di luar `documentation/docs/design`: folder tersebut adalah direktori aset deployment pratinjau. Jangan menaruh kredensial, data calon pelanggan, atau dokumen pribadi di repository.
 - Tambahkan dokumen saat ada kebutuhan nyata. Nama berkas memakai huruf kecil dan tanda hubung; dokumen lama dipertahankan agar tautannya tetap berlaku.

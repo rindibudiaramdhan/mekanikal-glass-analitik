@@ -36,7 +36,7 @@ Sepakati anggaran ukuran halaman, gambar, dan JavaScript sebelum QA final. Ukur 
 
 ## Pencatatan hasil
 
-Simpan laporan per kandidat di `docs/quality/hasil-YYYY-MM-DD.md` ketika pengujian dilakukan. Isinya: commit/build, environment/URL, browser/perangkat, penguji, skenario, hasil Lulus/Gagal/Belum diuji, bukti, dan tautan bug. Gunakan data sintetis dan hilangkan informasi pribadi dari screenshot atau log.
+Simpan laporan per kandidat di `documentation/docs/quality/hasil-YYYY-MM-DD.md` ketika pengujian dilakukan. Isinya: commit/build, environment/URL, browser/perangkat, penguji, skenario, hasil Lulus/Gagal/Belum diuji, bukti, dan tautan bug. Gunakan data sintetis dan hilangkan informasi pribadi dari screenshot atau log.
 
 ## Tingkat bug dan keputusan rilis
 

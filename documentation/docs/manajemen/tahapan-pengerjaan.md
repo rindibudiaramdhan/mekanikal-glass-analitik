@@ -44,7 +44,7 @@ Peran minimum: pemilik bisnis memutuskan lingkup dan fakta perusahaan; designer 
 - Review beranda yang tersedia, lalu lanjutkan profil, daftar/detail produk, layanan, daftar/detail proyek, kontak, dan privasi.
 - Definisikan desktop/mobile, menu, pemilih bahasa, 404, serta status kosong, validasi, mengirim, berhasil, dan gagal pada fitur terkait.
 - Periksa panjang teks Inggris, urutan heading, label, fokus keyboard, dan kontras.
-- Simpan keputusan visual dan catatan revisi di `docs/design` hanya jika layak menjadi materi review publik.
+- Simpan keputusan visual dan catatan revisi di `documentation/docs/design` hanya jika layak menjadi materi review publik.
 
 **Keluaran:** desain halaman serta interaksi yang dapat diperiksa.
 **Selesai bila:** alur utama dan tampilan kedua bahasa telah ditinjau; developer tidak perlu menebak perilaku penting.

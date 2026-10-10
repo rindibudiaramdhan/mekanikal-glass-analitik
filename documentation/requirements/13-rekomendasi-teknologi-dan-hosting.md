@@ -4,7 +4,7 @@ Tanggal pemeriksaan sumber: **8 Oktober 2026 (Asia/Jakarta)**. Status: rekomenda
 
 ## Pilihan yang direkomendasikan
 
-**Astro dengan output statis, TypeScript, CSS sederhana dan Cloudflare Pages Free.** Simpan konten pada content collections/JSON/Markdown dan kontak pada Site Settings. Pakai komponen bersama, HTML semantik dan JavaScript hanya untuk interaksi yang diperlukan. Reuse arahan visual/aset mockup `docs/design` yang layak; jangan mempublikasikan seluruh folder dokumentasi.
+**Astro dengan output statis, TypeScript, CSS sederhana dan Cloudflare Pages Free.** Simpan konten pada content collections/JSON/Markdown dan kontak pada Site Settings. Pakai komponen bersama, HTML semantik dan JavaScript hanya untuk interaksi yang diperlukan. Reuse arahan visual/aset mockup `documentation/docs/design` yang layak; jangan mempublikasikan seluruh folder dokumentasi.
 
 Astro mendukung content collections untuk mengelola dan memvalidasi konten; rute pada dasarnya dibuat saat build. Ini sesuai dengan profil/katalog yang tidak memerlukan data real-time. Alasan penghematan merupakan penilaian teknis untuk kebutuhan MGA, bukan hasil benchmark: template dapat dipakai ulang, konten terpisah dari layout, hosting tidak memerlukan proses aplikasi atau database yang selalu aktif. Sumber: [Astro content collections](https://docs.astro.build/en/guides/content-collections/) dan [routing](https://docs.astro.build/en/reference/routing-reference/).
 

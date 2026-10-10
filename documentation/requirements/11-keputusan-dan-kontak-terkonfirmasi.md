@@ -6,7 +6,7 @@ Tanggal: **8 Oktober 2026 (Asia/Jakarta)**. Sumber: konfirmasi pengguna melalui 
 
 Beranda, Tentang Kami/Profil Perusahaan, Produk (kategori dan detail), Layanan Custom, Proyek (daftar dan detail sesuai materi), Kontak, dan Kebijakan Privasi. Akses unduhan katalog ditambahkan setelah PDF publik siap; halaman Unduhan khusus belum menjadi kewajiban tahap pertama. Jumlah produk/proyek awal belum ditetapkan. Lima kategori dan 34 keluarga kandidat tetap usulan sumber, bukan jumlah SKU yang disepakati.
 
-Materi katalog/company profile boleh digunakan sebagai dasar draft preview. Fakta yang belum pasti diberi penanda review; tidak dijadikan klaim publik final. Preview diprioritaskan agar feedback cepat dan perubahan bisa dilakukan bertahap. Mockup HTML/CSS/JS sudah ada di `docs/design`; aplikasi produksi belum dibangun.
+Materi katalog/company profile boleh digunakan sebagai dasar draft preview. Fakta yang belum pasti diberi penanda review; tidak dijadikan klaim publik final. Preview diprioritaskan agar feedback cepat dan perubahan bisa dilakukan bertahap. Mockup HTML/CSS/JS sudah ada di `documentation/docs/design`; aplikasi produksi belum dibangun.
 
 ## Bahasa dan kriteria penerimaan
 
