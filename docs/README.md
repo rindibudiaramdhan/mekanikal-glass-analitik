@@ -24,6 +24,7 @@ Keputusan yang sudah tercatat: fokus kredibilitas perusahaan, bahasa ID/EN sejak
 | [rancangan-website.md](rancangan-website.md) | Tujuan bisnis, halaman, fitur, dan arah konten; ubah saat lingkup berubah |
 | [design/](design/CATATAN-DESAIN.md) | Pratinjau visual dan catatan review; ubah saat desain berubah |
 | [deployment.md](deployment.md) | Konfigurasi deployment pratinjau yang sudah dicatat |
+| [operasional/domain-hostinger-cloudflare.md](operasional/domain-hostinger-cloudflare.md) | Pemasangan domain Hostinger ke Worker, konflik DNS, dan cache jaringan Wi-Fi |
 | [manajemen/tahapan-pengerjaan.md](manajemen/tahapan-pengerjaan.md) | Tahapan, keluaran, peran, dan kriteria selesai |
 | [manajemen/backlog.md](manajemen/backlog.md) | Prioritas pekerjaan, dependensi, dan pertanyaan terbuka |
 | [teknis/arsitektur.md](teknis/arsitektur.md) | Batas sistem, struktur usulan, dan kebutuhan integrasi |
